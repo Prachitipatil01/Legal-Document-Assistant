@@ -1,0 +1,11 @@
+NON-DISCLOSURE AGREEMENT
+
+This Agreement is made on {{date}} between {{party1}} and {{party2}}, and is governed by the laws of {{jurisdiction}}.
+
+1. Purpose  
+The parties agree to protect the confidentiality of shared information...
+
+2. Confidentiality  
+Neither party shall disclose any information without prior consent...
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first above written.

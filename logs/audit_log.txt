@@ -1,0 +1,47 @@
+2025-06-09 22:00:21.708820 - admin uploaded sample_contract.txt
+2025-06-09 22:05:06.683839 - admin uploaded sample_contract.txt
+2025-06-09 22:12:51.647245 - admin uploaded sample_contract.txt
+2025-06-09 22:22:15.757018 - admin uploaded sample_contract.txt
+2025-06-09 22:31:07.462763 - admin uploaded and encrypted sample_contract.txt
+2025-06-09 22:31:16.301670 - admin uploaded and encrypted sample_contract.txt
+2025-06-09 22:36:44.635930 - admin uploaded and encrypted sample_contract.txt
+2025-06-09 22:55:23.219291 - admin uploaded and encrypted sample_contract.txt
+2025-06-09 22:55:23.230852 - admin found risks: liable, damages
+2025-06-09 23:20:55.471848 - admin uploaded and encrypted sample_contract.txt
+2025-06-09 23:20:55.479647 - admin found risks: liable, damages
+2025-06-09 23:26:22.804990 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-09 23:26:22.829948 - admin found risks: breach, liable, damages, arbitration, termination
+2025-06-09 23:26:32.256099 - admin uploaded and encrypted SERVICE AGREEMENT.txt
+2025-06-09 23:26:32.274565 - admin found risks: breach, liable, damages, arbitration, termination
+2025-06-09 23:28:20.280227 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-09 23:28:20.304627 - admin found risks: breach, liable, damages, arbitration, termination
+2025-06-09 23:53:29.883925 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-09 23:53:29.932108 - admin found risks: breach, damages, arbitration, termination, liable
+2025-06-09 23:59:29.113667 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-09 23:59:29.152224 - admin found risks: liable, termination, breach, damages, arbitration
+2025-06-10 00:11:42.698131 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-10 00:11:42.747500 - admin found risks: breach, arbitration, damages, liable, termination
+2025-06-10 00:27:32.859181 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-10 00:27:32.900276 - admin found risks: breach, liable, arbitration, damages, termination
+2025-06-10 14:11:18.493627 - admin uploaded and encrypted SERVICE AGREEMENT.pdf
+2025-06-10 14:11:18.554321 - admin found risks: liable, breach, arbitration, damages, termination
+2025-06-10 23:02:55.199799 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:02:55.209963 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:03:16.851954 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:03:16.858018 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:03:19.520247 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:03:19.528016 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:04:12.188080 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:04:12.203711 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:04:25.028238 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:04:25.043642 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:12:48.441463 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:12:48.454229 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:12:58.032756 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:12:58.044327 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:12:58.360492 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:12:58.371976 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:13:30.587702 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:13:30.599946 - admin risks: damages, breach, arbitration, termination, liable
+2025-06-10 23:13:32.894450 - admin uploaded SERVICE AGREEMENT.pdf
+2025-06-10 23:13:32.908260 - admin risks: damages, breach, arbitration, termination, liable
